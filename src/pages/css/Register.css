@@ -53,6 +53,9 @@ button{
     border: none;
     cursor: pointer;
 }
+button:hover{
+    background-color: #5d5b8d;
+}
 p{
     color: #5d5b8d;
     font-size: 12px;
